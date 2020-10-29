@@ -1,0 +1,17 @@
+{
+    "name":"default",
+    "server": {
+        "host": "localhost",
+        "port": "5000"
+    },
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "password",
+        "database": "test",
+        "maxConnections": 100,
+        "minConnections": 10,
+        "idleTimeoutMillis": 30000
+    },
+    "secretkey":"ashaja3u8u832"
+}
